@@ -1,0 +1,1 @@
+This is Yernazar's first git projest!
